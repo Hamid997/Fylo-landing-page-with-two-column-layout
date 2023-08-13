@@ -84,14 +84,14 @@ body{
     text-align: start;
 }
 .hero-heading {
-    font-size: 2.2rem;
+    font-size: 2rem;
     margin-bottom: 20px;
     font-weight: 700;
     font-family: var(--font-Raleway);
     color: var(--Very-Dark-Blue);
 }
 .hero-paragraph {
-    font-size: 1.1rem;
+    font-size: 1rem;
     margin-bottom: 20px;
     color: var(--Very-Dark-Blue);
 }
