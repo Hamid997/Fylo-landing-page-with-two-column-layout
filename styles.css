@@ -106,7 +106,7 @@ body{
     padding: 10px;
     border: 1.5px solid var(--Very-Dark-Blue);
     border-radius: 3px;
-    /* width: 60%; */
+    width: 60%;
     /* margin-bottom: 10px; */
 }
 .hero-input::placeholder {
